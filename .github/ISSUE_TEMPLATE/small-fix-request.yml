@@ -1,0 +1,52 @@
+name: Small Fix Request
+description: Request one small GitHub, README, workflow, or repo setup fix.
+title: "[GBP 5 fix]: "
+labels:
+  - small-fix
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for opening a request. Please keep it to one clear problem.
+  - type: input
+    id: repo
+    attributes:
+      label: Repo link
+      description: Paste the GitHub repo URL.
+      placeholder: https://github.com/user/repo
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is broken or confusing?
+      description: Describe the exact issue.
+      placeholder: The README setup instructions are missing the install command.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What should happen instead?
+      description: Tell me the desired result.
+      placeholder: A new contributor should be able to install and run the project.
+    validations:
+      required: true
+  - type: textarea
+    id: error
+    attributes:
+      label: Error text or screenshots
+      description: Paste any command output or error text here.
+      render: text
+    validations:
+      required: false
+  - type: dropdown
+    id: delivery
+    attributes:
+      label: Preferred delivery
+      options:
+        - Pull request
+        - Patch/diff
+        - Copy-paste instructions
+    validations:
+      required: true
