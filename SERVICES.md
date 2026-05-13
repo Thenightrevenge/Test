@@ -1,8 +1,8 @@
 # Services
 
-## GBP 5: One Small GitHub Fix
+## £1 Trial: One Small GitHub Fix
 
-Best for a tiny problem that is annoying but bounded.
+Best for trying this out with a tiny problem that is annoying but bounded.
 
 Includes:
 
@@ -19,26 +19,10 @@ Examples:
 - Explain one GitHub Actions error
 - Add one issue template
 
-## GBP 10: Repo First Impression Polish
+## Later Price Ideas
 
-Best for small projects that need to look clearer and more trustworthy.
+If the £1 trial works, you can raise prices later:
 
-Includes:
-
-- README clarity pass
-- Better project description
-- Suggested repo topics
-- One issue template
-- Short improvement notes
-
-## GBP 20: Mini Contributor Setup
-
-Best for repos that want more outside help.
-
-Includes:
-
-- README setup section
-- Contributing guide
-- Bug report template
-- Pull request template
-- Maintainer checklist
+- £5: one small GitHub fix
+- £10: repo first impression polish
+- £20: mini contributor setup
