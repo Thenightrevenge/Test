@@ -1,6 +1,6 @@
 # Triage Checklist
 
-Use this before accepting a GBP 5 request.
+Use this before accepting a £1 trial request.
 
 ## Accept If
 
