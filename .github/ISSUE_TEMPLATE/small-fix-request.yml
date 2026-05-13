@@ -1,11 +1,11 @@
 name: Small Fix Request
-description: Request one small GitHub, README, workflow, or repo setup fix.
-title: "[GBP 5 fix]: "
+description: Request one small GitHub, README, workflow, or repo setup fix for the £1 trial.
+title: "[£1 fix]: "
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for opening a request. Please keep it to one clear problem.
+        Thanks for opening a request. Please keep it to one clear problem for the £1 trial.
   - type: input
     id: repo
     attributes:
