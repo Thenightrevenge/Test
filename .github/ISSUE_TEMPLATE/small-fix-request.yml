@@ -1,8 +1,6 @@
 name: Small Fix Request
 description: Request one small GitHub, README, workflow, or repo setup fix.
 title: "[GBP 5 fix]: "
-labels:
-  - small-fix
 body:
   - type: markdown
     attributes:
