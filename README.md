@@ -1,6 +1,6 @@
-# GBP 5 GitHub Fixes
+# £1 GitHub Fixes
 
-Tiny fixes for GitHub repos, delivered fast.
+Tiny fixes for GitHub repos, delivered fast at a £1 trial price.
 
 ## What I Can Help With
 
@@ -13,7 +13,7 @@ Tiny fixes for GitHub repos, delivered fast.
 
 ## Price
 
-**GBP 5 for one small fix.**
+**£1 for one small trial fix.**
 
 If the issue is bigger than that, I will tell you before doing the work.
 
@@ -21,8 +21,9 @@ If the issue is bigger than that, I will tell you before doing the work.
 
 1. Open an issue using the "Small Fix Request" template.
 2. Share the repo link and the exact thing that is broken or confusing.
-3. I reply with whether it fits the GBP 5 scope.
-4. After payment, I send a patch, pull request, or copy-paste fix.
+3. I reply with whether it fits the £1 trial scope.
+4. Pay here: https://py.pl/mVlutEBE7dLrNzjb8Hmkvw
+5. After payment, I send a patch, pull request, or copy-paste fix.
 
 ## Good Requests
 
@@ -41,12 +42,12 @@ If the issue is bigger than that, I will tell you before doing the work.
 
 ## Payment
 
-Add your payment link here:
+Pay the £1 trial price here:
 
-`https://your-payment-link.example`
+https://py.pl/mVlutEBE7dLrNzjb8Hmkvw
 
 ## Contact
 
 Open an issue:
 
-`https://github.com/Thenightrevenge/Test/issues/new/choose`
+https://github.com/Thenightrevenge/Test/issues/new/choose
