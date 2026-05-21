@@ -1,4 +1,4 @@
-# £1 GitHub Fixes
+# £1 GitHub Fixes test
 
 Tiny fixes for GitHub repos, delivered fast at a £1 trial price.
 
